@@ -22,6 +22,7 @@ public class Hi {
         // }
         // }
         System.out.println("Hi there through jenkins !!");
+        System.out.println("New changes");
     }
 
 }
